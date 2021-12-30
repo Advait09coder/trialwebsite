@@ -1,0 +1,29 @@
+#info_ide{
+    font-size: 50px;
+    font-family: Pushster;
+    margin: 30px;
+}
+
+#sp{
+    margin: 30px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cyan;
+    color: crimson;
+}
+
+#hp{
+    margin: 30px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cyan;
+    color: crimson;
+    display: none;
+}
+
+#info_console{
+    font-size: 50px;
+    font-family: Pushster;
+    margin: 30px;
+    display: none;
+}
